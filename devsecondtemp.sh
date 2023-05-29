@@ -1,6 +1,6 @@
 #!/bin/bash
-GIT=git@github.com:syamu99/Devops2.git
-REPO=Devops2.git
+GIT=git@github.com:syamu99/Devops2.github.io
+REPO=Devops2.github.io
 WEBSITE=https://www.tooplate.com/zip-templates/2103_central.zip
 PKG=apt
 FILE=2103_central
